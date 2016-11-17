@@ -2,4 +2,3 @@
 echo 'hello';
 die('xin chao');
 echo 'add more lines';
-$i = 2;
