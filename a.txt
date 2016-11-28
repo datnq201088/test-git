@@ -3,3 +3,5 @@ echo 'hello';
 die('xin chao');
 echo 'add more lines';
 echo 'add new tag v1.0';
+add new line;
+that la tuyet voi
