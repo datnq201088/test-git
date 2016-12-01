@@ -6,3 +6,5 @@ echo 'add new tag v1.0';
 add new line;
 that la tuyet voi
 ao vai;
+tao da chinh sua file a
+hello
